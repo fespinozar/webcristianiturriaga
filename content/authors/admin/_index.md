@@ -46,12 +46,12 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/official_uom
- -icon:  graduation-cap
+ -icon: graduation-cap
   icon_pack: fas
   link: https://www.research.manchester.ac.uk/portal/cristian.iturriagaseguel.html
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
