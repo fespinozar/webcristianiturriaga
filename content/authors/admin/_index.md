@@ -49,12 +49,15 @@ social:
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://www.research.manchester.ac.uk/portal/en/researchers/cristin-iturriaga-seguel(76d86453-3ad9-4286-900d-825f7a969df9).html
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/
 - icon: researchgate
   icon_pack: ai
-  https://www.researchgate.net/scientific-contributions/Cristian-Iturriaga-2078806049
+  link: https://www.researchgate.net/scientific-contributions/Cristian-Iturriaga-2078806049
 - icon: academia
   icon_pack: ai
-  https://uc-cl.academia.edu/Cristi%C3%A1nIturriaga
+  link: https://uc-cl.academia.edu/Cristi%C3%A1nIturriaga
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
