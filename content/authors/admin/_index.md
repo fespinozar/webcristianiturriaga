@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: cristian.iturriaga@manchester.ac.uk
+  link: mailto:cristian.iturriaga@manchester.ac.uk
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/official_uom
@@ -77,8 +77,8 @@ email: ""
 highlight_name: true
 ---
 
-Cristián Iturriaga is a PhD in Education graduated from The University of Manchester, United Kingdom. His research interests include AAAAAA, BBBBB and CCCCC. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Cristián Iturriaga is a PhD in Education graduated from The University of Manchester, United Kingdom. His research interests include AAAAAA, BBBBB and CCCCC. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
