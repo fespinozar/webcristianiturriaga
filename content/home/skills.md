@@ -16,9 +16,9 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 
+- description: Experienced N-Vivo user
   icon: sparkles
-  icon_pack: fas
+  icon_pack: fab
   name: Qualitative analysis
 - description: Level 3 certificate
   icon: sign-language
