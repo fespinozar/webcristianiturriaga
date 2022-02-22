@@ -14,11 +14,11 @@ organizations:
   url: https://www.manchester.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include educational psychology and d/Deaf literacies.
 
 # Interests to show in About widget
 interests:
-- D/deaf literacies
+- d/Deaf literacies
 - Linguistics
 - Psychology
 
@@ -55,6 +55,12 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
+- icon: academia
+  icon_pack: ai
+  link: https://uc-cl.academia.edu/Cristi%C3%A1nIturriaga
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/scientific-contributions/Cristian-Iturriaga-2078806049
 
 
 # Link to a PDF of your resume/CV.
