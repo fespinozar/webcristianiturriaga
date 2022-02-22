@@ -25,7 +25,7 @@ experience:
   - title: Research assistant
     company: The University of Manchester
     company_url: ''
-    company_logo: org-gc
+    company_logo: org-UoM
     location: Manchester, United Kingdom
     date_start: '2021-12-01'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
   - title: Research assistant
     company: Centre for Advanced Research in Education (CIAE), University of Chile
     company_url: ''
-    company_logo: org-x
+    company_logo: org-UCh
     location: Santiago, Chile
     date_start: '2017-03-01'
     date_end: '2017-12-31'
@@ -48,7 +48,7 @@ experience:
   - title: Research assistant
     company: Pontifical Catholic University of Chile
     company_url: ''
-    company_logo: org-x
+    company_logo: org-PUC
     location: Santiago, Chile
     date_start: '2016-01-01'
     date_end: '2020-12-31'
