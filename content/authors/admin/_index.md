@@ -41,14 +41,14 @@ education:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 
 - icon: envelope
-icon_pack: fas
-link: mailto:cristian.iturriaga@manchester.ac.uk
+  icon_pack: fas
+  link: "mailto:cristian.iturriaga@manchester.ac.uk"
 - icon: twitter
-icon_pack: fab
-link: https://twitter.com/
+  icon_pack: fab
+  link: https://twitter.com/
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-icon_pack: fas
-link: https://www.research.manchester.ac.uk/portal/en/researchers/cristin-iturriaga-seguel(76d86453-3ad9-4286-900d-825f7a969df9).html
+  icon_pack: fas
+  link: https://www.research.manchester.ac.uk/portal/en/researchers/cristin-iturriaga-seguel(76d86453-3ad9-4286-900d-825f7a969df9).html
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
